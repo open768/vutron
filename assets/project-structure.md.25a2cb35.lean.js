@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as e}from"./app.4b285366.js";const y=JSON.parse('{"title":"Project Structure","description":"","frontmatter":{},"headers":[],"relativePath":"project-structure.md"}'),l={name:"project-structure.md"},o=e("",2),p=[o];function c(t,r,i,C,A,u){return a(),n("div",null,p)}const D=s(l,[["render",c]]);export{y as __pageData,D as default};
